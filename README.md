@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *SimDooT*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimDooT** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jack Reive**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -37,6 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+This's the first time I learn how to dev a simple android's app. So funny. I just have 4 hours to dev it because I didn't read mail of codeshcool until today :v :v :v...
 I don't know how to change text of specific item in listview, but now it's okay, you're just need to update listview.
 
 ## License
